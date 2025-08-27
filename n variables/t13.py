@@ -1,0 +1,6 @@
+pluto=6000000000000000000000000000000000000000000000000000000000555
+print(pluto)
+mars = 9e33
+print((mars))
+saturn=9*(10**40) # 4x4x4x4
+print(saturn)

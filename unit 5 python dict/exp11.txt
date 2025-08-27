@@ -1,0 +1,5 @@
+
+Employee = {"Name": "John", "Age": 29, "salary": 25000, "Company": "GOOGLE"}
+for key, value in Employee.items():
+    if value == 'John':
+        print(key)  # This will print the key associated with the value 25000

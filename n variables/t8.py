@@ -1,0 +1,4 @@
+Jay=5000
+jay=6000
+print(Jay)
+#CASE SENSITIVE

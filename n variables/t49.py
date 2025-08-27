@@ -1,0 +1,8 @@
+i=0
+
+# infinite loop(chakedu)
+while i!=10:   # 0!=10 ... 9!=10    10!=10
+    print(i)
+    if(i==6):
+        break
+    i=i+1

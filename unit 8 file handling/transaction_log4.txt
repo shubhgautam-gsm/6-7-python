@@ -1,0 +1,1 @@
+Transaction details: [Account: 556, Amount: $100]

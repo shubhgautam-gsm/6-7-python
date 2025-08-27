@@ -1,0 +1,11 @@
+str='ram'
+str2='RAM'
+
+print(str.swapcase())
+print(str2.swapcase())
+
+# SWAP 
+# APPLE,MANGO,BANANA,GUAVA,DRAGONFRUIT
+# APPLE,BANANA,GAUVA,DRAGONFRUIT,MANGO # 1
+# APPLE,BANANA,DRAGONFRUIT,GUAVA,MANGO # 2
+

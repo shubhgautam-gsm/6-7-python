@@ -1,0 +1,17 @@
+Category.js
+
+Category={
+    "category_id":3,
+    "cat_name":'laptop'
+}
+
+
+Product.js
+
+Product={
+    category_id:Category.category_id;
+    product_id:22,
+    pro_name:'lennovo 33series',
+    pro_price: '1000',
+    pro_color: 'black',
+}
