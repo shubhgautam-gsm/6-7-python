@@ -1,6 +1,4 @@
-a=5
-print(type(a))
+# dynamic conversion
 a=5.5
-print(type(a))
-a="heet"
+a='jay'
 print(type(a))
