@@ -1,3 +1,4 @@
+# CONTAINER=CONTAIN
 glass1="vanila milk" # 
 glass2="chocolate milk" #overide
 glass3="butter milk" #overide 
