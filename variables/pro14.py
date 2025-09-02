@@ -1,0 +1,4 @@
+statement='I AM STUDY IN\
+ DHOLAKIYA SCHOOLS\
+ AT BALAJI HALL'
+print(statement) #EXCLUSIVE
