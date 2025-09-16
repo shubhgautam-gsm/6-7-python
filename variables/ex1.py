@@ -1,5 +1,4 @@
-image_url="flower.jpg"
-image_name=image_url[0:-4]
+image_url="red_rose_flower.jpg"
+image_url=image_url[0:11]
 # call by value  change orginal value
 print(image_url)
-print(image_name)

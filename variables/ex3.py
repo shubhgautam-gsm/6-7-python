@@ -1,5 +1,4 @@
 cars=['bmw','swift','audi']
-cars.append('ferari') #call reference change real value
-cars2=cars+['wagnor'] #call value change real value
+cars.append('xl6')
+cars.append('m8cs')
 print(cars)
-print(cars2)
